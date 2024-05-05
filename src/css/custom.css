@@ -49,6 +49,7 @@
 
 .row {
   margin: 0 !important;
+  flex-wrap: none !important;
 }
 
 .hero--primary{
