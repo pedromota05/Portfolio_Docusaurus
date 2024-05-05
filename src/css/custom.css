@@ -43,6 +43,14 @@
   box-sizing: border-box;
 }
 
+.container {
+  padding: 0 !important;
+}
+
+.row {
+  margin: 0 !important;
+}
+
 .hero--primary{
   height: 400px;
 }
